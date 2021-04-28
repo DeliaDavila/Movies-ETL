@@ -5,17 +5,18 @@ This project was done to learn how to do ETL: extract, transform, load.
 
 ### Project goals
 The goals:
-##Extract:
+
+## Extract:
 * Load data from various formats
 * Extract values into dataframes for transforming
 
-##Transform:
+## Transform:
 * Retrieve movie and ratings data
 * Clean movie data set and reduce to a good working set for a hackathon
 * Re-organize ratings data for optional use in hackathon
 * Adjusting entries for consistency
 
-##Load
+## Load
 * Confirming and adjusting data types 
 * Creating visualizations to compare different data sets to determine most complete/clean
 * Blend data and remove unnecessary/redundant information
